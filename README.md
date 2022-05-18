@@ -1,5 +1,5 @@
 # evolving-poker-agents
-Genetic algorithm trained neural-network architecture to play Poker.  
+Genetic algorithm trained neural-network architecture to play Poker, for my master's project.
 
 The project was part of my master's degree dissertation. The aim was to implement a neural network architecture that's able to interface with an existing poker implementation and play poker. The agent takes information from the game state and makes decisions through running the network and therefore plays the game. The project uses a genetic algorithm in order to train the neural networks. Basically a bunch of neural networks play poker against each-other, and the best are evaluated and selected to be part of a new generation, where new poker agents are generated. This keeps going until we've found the ultimate poker agent.  
 
